@@ -30,7 +30,7 @@ int main () {
 	bool trigger;
 	string tempString;
 
-	cout << "This program can be used to estimate clothing size." << endl;
+	cout << "This program can be used to estimate clothing size.";
 
 	changeVariable(height, "height");
 	changeVariable(weight, "weight");
